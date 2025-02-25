@@ -11,7 +11,7 @@ import { SiTailwindcss, SiFigma, SiNextdotjs, SiNodedotjs, SiMongodb } from "rea
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Professional Coder.", "Full Stack Developer.", "UI Designer."],
+    words: ["Professional Coder.","Front-end Developer.", "Full Stack Developer.", "UI Designer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
