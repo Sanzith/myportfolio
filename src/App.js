@@ -11,7 +11,7 @@ import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
   return (
-    <div className="w-full h-auto bg-gradient-to-r from-[#002244] via-[#000C1A] to-[#000000] text-lightText px-4">
+    <div className="w-full h-auto bg-black text-lightText px-4">
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
